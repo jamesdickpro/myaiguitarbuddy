@@ -1,7 +1,7 @@
 title: MyAIGuitarBuddy
 description: Exploring how AI and guitar can play together
 baseurl: "" # leave empty unless your site is in a subdirectory
-url: "https://yourusername.github.io" # change this to your GitHub Pages URL
+url: "https://jamesdickpro.github.io" # change this to your GitHub Pages URL
 
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
@@ -14,14 +14,14 @@ plugins:
 
 author:
   name: James
-  avatar: "/assets/images/avatar.png" # optional, can be removed
+  # avatar: "/assets/images/avatar.png" # optional, can be removed
   bio: "Learning guitar again with AI as my guide."
   location: Canada
 
 # Optional: social links
 social:
-  github: yourusername
-  twitter: yourhandle
+  github: jamesdickpro
+  # twitter: yourhandle
 
 # Enable breadcrumbs, table of contents, etc.
 breadcrumbs: true
