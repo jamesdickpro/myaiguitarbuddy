@@ -3,7 +3,7 @@ description: Exploring how AI and guitar can play together
 baseurl: "" # leave empty unless your site is in a subdirectory
 url: "https://jamesdickpro.github.io" # change this to your GitHub Pages URL
 
-theme: null
+# theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
