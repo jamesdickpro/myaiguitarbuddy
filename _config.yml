@@ -1,7 +1,28 @@
 title: MyAIGuitarBuddy
-description: Exploring guitar and AI, one chord at a time.
-author: James
-theme: minima
+description: Exploring how AI and guitar can play together
+baseurl: "" # leave empty unless your site is in a subdirectory
+url: "https://yourusername.github.io" # change this to your GitHub Pages URL
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-seo-tag
+
+author:
+  name: James
+  avatar: "/assets/images/avatar.png" # optional, can be removed
+  bio: "Learning guitar again with AI as my guide."
+  location: Canada
+
+# Optional: social links
+social:
+  github: yourusername
+  twitter: yourhandle
+
+# Enable breadcrumbs, table of contents, etc.
+breadcrumbs: true
+toc: true
