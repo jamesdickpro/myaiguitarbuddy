@@ -1,0 +1,7 @@
+title: MyAIGuitarBuddy
+description: Exploring guitar and AI, one chord at a time.
+author: James
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
