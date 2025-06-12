@@ -1,6 +1,6 @@
 title: MyAIGuitarBuddy
 description: Exploring how AI and guitar can play together
-baseurl: "" # leave empty unless your site is in a subdirectory
+baseurl: "/myaiguitarbuddy" # leave empty unless your site is in a subdirectory
 url: "https://jamesdickpro.github.io" # change this to your GitHub Pages URL
 
 # theme: null
