@@ -2,7 +2,6 @@
 layout: single
 title: "Welcome to MyAIGuitarBuddy!"
 date: 2025-06-12
-author: James
 tags: [intro, guitar, AI, personal-journey, getting-back-into-music, AI-generated]
 read_time: true
 author_profile: true
