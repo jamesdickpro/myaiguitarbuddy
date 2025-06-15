@@ -2,7 +2,6 @@
 layout: single
 title: "How This Blog Got Started: Building MyAIGuitarBuddy with AI"
 date: 2025-06-15
-author: James
 tags: [meta, ai-assisted-writing, blogging, setup, jekyll, github-pages]
 read_time: true
 author_profile: true
