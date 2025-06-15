@@ -14,7 +14,7 @@ plugins:
 
 author:
   name: James
-  # avatar: "/assets/images/avatar.png" # optional, can be removed
+  avatar: "/assets/images/avatar.jpg" # optional, can be removed
   bio: "Learning guitar again with AI as my guide."
   location: Canada
 
