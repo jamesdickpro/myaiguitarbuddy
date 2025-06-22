@@ -1,10 +1,10 @@
 ---
-layout: single
-title: "Ball and Chain by Social Distortion - Guitar Lesson Plan"
+title: "Ball and Chain - Guitar Lesson Plan"
 date: 2025-06-21
+layout: single
 author_profile: true
 categories: [guitar, lesson-plan, social-distortion]
-tags: [punk-rock, practice, eb-tuning, ai-assisted-writing]
+tags: [punk-rock, practice, eb-tuning, chatgpt-assisted]
 read_time: true
 ---
 
@@ -39,6 +39,7 @@ A|--x--|     A|--0--|     A|--2--|
 E|--x--|     E|--x--|     E|--3--|
 ```
 
+
 > *Note: In Eb tuning, these shapes sound as **Db**, **Ab**, and **Gb** respectively.*
 
 ---
@@ -49,6 +50,8 @@ E|--x--|     E|--x--|     E|--3--|
 `D – D U – U D U`
 
 Start with a **metronome at 60 bpm**, then gradually increase to **135 bpm**. Focus on even, relaxed motion and steady tempo.
+
+> 🎯 **Tip**: For rhythm-only practice, **mute the strings with your fretting hand** (lightly rest your fingers across the strings without pressing down) and focus purely on **timing and groove**. This helps internalize the strumming pattern without worrying about chord transitions.
 
 ---
 
@@ -65,6 +68,11 @@ Start with a **metronome at 60 bpm**, then gradually increase to **135 bpm**. Fo
 
 If something sounds off while you're playing, **trust your ears**. Tuning, chord voicings, or performance style might vary between studio, live, and cover versions — and it’s always possible we got something wrong. Your ears are the final authority.
 
-## References
-1. [Ball and Chain by Social Distortion SUPER EZ Guitar Song Lesson - 3 chords](https://www.youtube.com/watch?v=MDTmbXj9i9w&list=PLAH9D5V3tGG67ACOK92hn1env4luRoSME&index=2)
-2. [Social Distortion - Ball and Chain - Guitar Lesson (WITH GUITAR SOLO!)](https://www.youtube.com/watch?v=cc5xmVhxjI4&list=PLAH9D5V3tGG67ACOK92hn1env4luRoSME&index=3)
+---
+
+## 🎧 Listen to the Original Recording
+
+To hear the tone, tempo, and feel of *Ball and Chain* as recorded by Social Distortion, listen here:  
+🎵 [Ball and Chain – Social Distortion (YouTube Music)](https://music.youtube.com/watch?v=_NWjehpGSO0&list=PLAH9D5V3tGG67ACOK92hn1env4luRoSME)
+
+Playing along with the original track is one of the best ways to lock in the rhythm and vibe.
