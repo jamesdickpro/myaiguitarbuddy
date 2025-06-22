@@ -1,10 +1,11 @@
 ---
-title: "Ball and Chain - Guitar Lesson Plan"
+layout: single
+title: "Ball and Chain by Social Distortion - Guitar Lesson Plan"
 date: 2025-06-21
-layout: post
 author_profile: true
 categories: [guitar, lesson-plan, social-distortion]
-tags: [punk-rock, practice, eb-tuning]
+tags: [punk-rock, practice, eb-tuning, ai-assisted-writing]
+read_time: true
 ---
 
 ## 🎸 One-Week Practice Plan for  
@@ -63,3 +64,7 @@ Start with a **metronome at 60 bpm**, then gradually increase to **135 bpm**. Fo
 ## ⚠️ Disclaimer
 
 If something sounds off while you're playing, **trust your ears**. Tuning, chord voicings, or performance style might vary between studio, live, and cover versions — and it’s always possible we got something wrong. Your ears are the final authority.
+
+## References
+1. [Ball and Chain by Social Distortion SUPER EZ Guitar Song Lesson - 3 chords](https://www.youtube.com/watch?v=MDTmbXj9i9w&list=PLAH9D5V3tGG67ACOK92hn1env4luRoSME&index=2)
+2. [Social Distortion - Ball and Chain - Guitar Lesson (WITH GUITAR SOLO!)](https://www.youtube.com/watch?v=cc5xmVhxjI4&list=PLAH9D5V3tGG67ACOK92hn1env4luRoSME&index=3)
