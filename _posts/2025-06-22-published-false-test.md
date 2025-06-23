@@ -6,7 +6,7 @@ author_profile: true
 categories: [guitar, lesson-plan, social-distortion]
 tags: [punk-rock, practice, eb-tuning, chatgpt-assisted]
 read_time: true
-publish: false
+published: false
 ---
 
 ## Intro
