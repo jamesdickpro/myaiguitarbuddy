@@ -6,11 +6,8 @@ url: "https://jamesdickpro.github.io" # change this to your GitHub Pages URL
 # theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 
-plugins:
-  - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+sidebar:
+  nav: main
 
 author:
   name: James
@@ -18,8 +15,11 @@ author:
   bio: "Learning guitar again with AI as my guide."
   location: Canada
 
-sidebar:
-  nav: main
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Optional: social links
 social:
