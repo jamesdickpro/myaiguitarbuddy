@@ -2,6 +2,7 @@
   Custom sidebar for MyAIGuitarBuddy – includes nav, author, and tags
 {% endcomment %}
 
+{% comment %}
 {%- if site.sidebar.nav %}
   <nav class="sidebar__nav">
     <ul class="sidebar__list">
@@ -14,7 +15,6 @@
   </nav>
 {%- endif %}
 
-{% comment %}
 {%- if site.author.name %}
   {%- include author-profile.html -%}
 {%- endif %}
