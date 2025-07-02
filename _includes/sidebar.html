@@ -1,0 +1,24 @@
+{% comment %}
+  Custom sidebar override for Minimal Mistakes
+{% endcomment %}
+
+{% include nav.html %}
+
+{% if site.author.name %}
+  {% include author-profile.html %}
+{% endif %}
+
+<hr>
+
+<h3 class="sidebar__title">Tags</h3>
+<ul class="taxonomy__index">
+  {% assign tags_sorted = site.tags | sort %}
+  {% for tag in tags_sorted %}
+    {% assign tag_name = tag[0] %}
+    <li>
+      <a href="{{ site.baseurl }}/tags/#{{ tag_name | slugify }}">
+        {{ tag_name }} <span class="taxonomy__count">{{ tag[1].size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
