@@ -1,24 +1,34 @@
 {% comment %}
-  Custom sidebar override for Minimal Mistakes
+  Custom sidebar for MyAIGuitarBuddy – includes nav, author, and tags
 {% endcomment %}
 
-{% include nav.html %}
+{%- if site.sidebar.nav %}
+  <nav class="sidebar__nav">
+    <ul class="sidebar__list">
+      {%- for link in site.data.navigation[site.sidebar.nav] %}
+        <li class="sidebar__item">
+          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        </li>
+      {%- endfor %}
+    </ul>
+  </nav>
+{%- endif %}
 
-{% if site.author.name %}
-  {% include author-profile.html %}
-{% endif %}
+{%- if site.author.name %}
+  {%- include author-profile.html -%}
+{%- endif %}
 
 <hr>
 
 <h3 class="sidebar__title">Tags</h3>
 <ul class="taxonomy__index">
-  {% assign tags_sorted = site.tags | sort %}
-  {% for tag in tags_sorted %}
-    {% assign tag_name = tag[0] %}
+  {%- assign tags_sorted = site.tags | sort %}
+  {%- for tag in tags_sorted %}
+    {%- assign tag_name = tag[0] %}
     <li>
       <a href="{{ site.baseurl }}/tags/#{{ tag_name | slugify }}">
         {{ tag_name }} <span class="taxonomy__count">{{ tag[1].size }}</span>
       </a>
     </li>
-  {% endfor %}
+  {%- endfor %}
 </ul>
