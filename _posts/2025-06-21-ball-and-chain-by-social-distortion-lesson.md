@@ -10,8 +10,28 @@ read_time: true
 
 ## 🎸 One-Week Practice Plan for  
 **“Ball and Chain” – Social Distortion**  
-🔧 *In Eb Standard Tuning (Eb Ab Db Gb Bb Eb)*  
-🎵 *Chord progression: D – A – G – D (used throughout)*
+🎶 *Key: D♭ Major (matches studio recording)*
+
+This post offers two ways to play the song depending on how you prefer to tune your guitar.
+
+---
+
+## 🎛️ Option 1: Eb Tuning (Matches Studio Recording)
+
+> **Tuning**: Eb Ab Db Gb Bb Eb *(Half step down)*  
+> **Chord Shapes Used**: D – A – G – D  
+> **Sounds As**: D♭ – A♭ – G♭ – D♭  
+> ✅ Great if you're comfortable tuning down or using pitch shift
+
+---
+
+## 🎛️ Option 2: Standard Tuning with Capo on 1st Fret
+
+> **Tuning**: Standard (E A D G B e)  
+> **Capo**: 1st fret  
+> **Chord Shapes Used**: C – G – F – C  
+> **Sounds As**: D♭ – A♭ – G♭ – D♭  
+> ✅ Great for convenience — no need to retune!
 
 ---
 
@@ -19,15 +39,17 @@ read_time: true
 
 | Section | Time | What to Practice |
 |--------|------|------------------|
-| **Chord Focus** | 3 min (1 min each) | Practice chord shapes: D, A, G — ensure clarity, posture, and finger placement |
-| **Chord Change Drills** | 3 min (1 min each pair) | D → A, A → G, G → D — focus on clean transitions |
+| **Chord Focus** | 3 min (1 min each) | Practice chord shapes (D–A–G or C–G–F) — ensure clarity and correct form |
+| **Chord Change Drills** | 3 min (1 min each pair) | Practice changes: D → A, A → G, G → D or C → G, G → F, F → C |
 | **Strumming Practice (Metronome)** | 2 min | Use pattern: **D – D U – U D U**. Start at **60 bpm**, aim for **135 bpm** |
-| **Play-Along with Recording** | 5–8 min | Full strumming and chord progression with the studio track in Eb tuning |
-| **Free Jam / Song Run-through** | 3–5 min | Explore groove, dynamics, and building flow through the full progression |
+| **Play-Along with Recording** | 5–8 min | Play full progression with the studio track (in D♭) |
+| **Free Jam / Song Run-through** | 3–5 min | Explore dynamics, groove, and flow |
 
 ---
 
-## 🎼 Chord Diagrams (Standard Shapes in Eb Tuning)
+## 🎼 Chord Diagrams
+
+### 🎵 Eb Tuning (D–A–G shapes)
 
 ```
 D Major       A Major       G Major
@@ -39,8 +61,19 @@ A|--x--|     A|--0--|     A|--2--|
 E|--x--|     E|--x--|     E|--3--|
 ```
 
+### 🎵 Standard Tuning (capo on first fret C–G–F shapes)
 
-> *Note: In Eb tuning, these shapes sound as **Db**, **Ab**, and **Gb** respectively.*
+```
+C Major       G Major       F Major
+e|--0--|     e|--3--|     e|--1--|
+B|--1--|     B|--3--|     B|--1--|
+G|--0--|     G|--0--|     G|--2--|
+D|--2--|     D|--0--|     D|--3--|
+A|--3--|     A|--2--|     A|--3--|
+E|--x--|     E|--3--|     E|--1--|
+```
+
+> *With capo on the 1st fret, these shapes sound as D♭ – A♭ – G♭ – D♭.*
 
 ---
 
@@ -49,9 +82,9 @@ E|--x--|     E|--x--|     E|--3--|
 **Pattern**:  
 `D – D U – U D U`
 
-Start with a **metronome at 60 bpm**, then gradually increase to **135 bpm**. Focus on even, relaxed motion and steady tempo.
+Start at **60 bpm** and gradually increase to **135 bpm** using a metronome. Focus on relaxed motion and internal timing.
 
-> 🎯 **Tip**: For rhythm-only practice, **mute the strings with your fretting hand** (lightly rest your fingers across the strings without pressing down) and focus purely on **timing and groove**. This helps internalize the strumming pattern without worrying about chord transitions.
+> 🎯 **Tip**: Mute the strings with your fretting hand and practice this pattern as a rhythm-only drill to improve consistency.
 
 ---
 
