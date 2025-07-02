@@ -2,7 +2,7 @@
 layout: single
 title: "Welcome to MyAIGuitarBuddy!"
 date: 2025-06-12
-tags: [intro, guitar, AI, personal-journey, getting-back-into-music, AI-generated]
+tags: [intro, chatgpt-assisted]
 read_time: true
 author_profile: true
 ---
