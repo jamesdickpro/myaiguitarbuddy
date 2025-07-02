@@ -4,6 +4,13 @@
 
 {%- if site.sidebar.nav %}
   <nav class="sidebar__nav">
+    
+    {%- if site.author.name %}
+      {%- include author-profile.html -%}
+    {%- endif %}
+    
+    <hr>
+    
     <ul class="sidebar__list">
       {%- for link in site.data.navigation[site.sidebar.nav] %}
         <li class="sidebar__item">
@@ -11,14 +18,10 @@
         </li>
       {%- endfor %}
     </ul>
+  
   </nav>
 {%- endif %}
 
-{%- if site.author.name %}
-  {%- include author-profile.html -%}
-{%- endif %}
-
-<hr>
 
 <h3 class="sidebar__title">Tags</h3>
 <ul class="taxonomy__index">
