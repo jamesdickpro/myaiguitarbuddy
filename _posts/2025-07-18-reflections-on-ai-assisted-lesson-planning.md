@@ -18,3 +18,5 @@ published: false
 - what could be better?  e.g. the chord diagrams had to be requested separately and they were located in the middle of the post.  Subsequent iteration of Ball and Chain to standard tuning and capo first fret included the chord diagrams automaticallly
 - treated this as create a lesson and post to the blog.  Learned the first week the lessons should be more dynamic.  e.g. once the chords were masters, remove those and add something new.
 - can combine parts of each song into an overall lesson plan?
+- standardize the tags for this post
+- maybe have a separate post for just adding the sidebar nav of tags.  Struggle to get the write answer from ChatGPT, but to be fair, I don't really know Jekyll and Liquid either.  Spent time looking at the generated HTML and moving it around in Chrome.
