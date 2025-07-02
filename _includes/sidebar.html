@@ -14,12 +14,11 @@
   </nav>
 {%- endif %}
 
-{% comment %}
 {%- if site.author.name %}
   {%- include author-profile.html -%}
 {%- endif %}
-{% endcomment %}
 
+{% comment %}
 <hr>
 
 <h3 class="sidebar__title">Tags</h3>
@@ -34,3 +33,4 @@
     </li>
   {%- endfor %}
 </ul>
+{% endcomment %}
