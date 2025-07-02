@@ -18,6 +18,9 @@ author:
   bio: "Learning guitar again with AI as my guide."
   location: Canada
 
+sidebar:
+  nav: main
+
 # Optional: social links
 social:
   github: jamesdickpro
