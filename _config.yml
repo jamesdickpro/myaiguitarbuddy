@@ -6,8 +6,8 @@ url: "https://jamesdickpro.github.io" # change this to your GitHub Pages URL
 # theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 
-sidebar:
-  nav: main
+# sidebar:
+  # nav: main
 
 author:
   name: James
