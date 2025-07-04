@@ -1,7 +1,7 @@
 {% comment %} Custom sidebar with nav, author, and tags {% endcomment %}
 
 {%- if site.sidebar.nav %}
-  <nav class="sidebar__nav">
+  <nav class="sidebar sticky">
     {%- if site.author.name %}
       {%- include author-profile.html -%}
       <hr>
