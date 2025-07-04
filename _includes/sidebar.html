@@ -2,6 +2,11 @@
 
 {%- if site.sidebar.nav %}
   <nav class="sidebar__nav">
+    {%- if site.author.name %}
+      {%- include author-profile.html -%}
+      <hr>
+    {%- endif %}
+
     <ul class="sidebar__list">
       {%- for link in site.data.navigation[site.sidebar.nav] %}
         <li class="sidebar__item">
@@ -10,11 +15,6 @@
       {%- endfor %}
     </ul>
   </nav>
-{%- endif %}
-
-{%- if site.author.name %}
-  <hr>
-  {%- include author-profile.html -%}
 {%- endif %}
 
 <hr>
