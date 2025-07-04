@@ -6,14 +6,6 @@
       {%- include author-profile.html -%}
       <hr>
     {%- endif %}
-
-    <ul class="sidebar__list">
-      {%- for link in site.data.navigation[site.sidebar.nav] %}
-        <li class="sidebar__item">
-          <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
-        </li>
-      {%- endfor %}
-    </ul>
   </nav>
 {%- endif %}
 
