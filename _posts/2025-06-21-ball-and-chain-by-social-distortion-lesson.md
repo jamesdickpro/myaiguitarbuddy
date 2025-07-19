@@ -3,7 +3,7 @@ title: "Ball and Chain - Guitar Lesson Plan"
 date: 2025-06-21
 layout: single
 author_profile: true
-tags: [punk-rock, eb-tuning, standard-tuning, chatgpt-assisted, lesson-plan, social-distortion]
+tags: [eb-tuning, standard-tuning, chatgpt-assisted, social-distortion]
 read_time: true
 ---
 
