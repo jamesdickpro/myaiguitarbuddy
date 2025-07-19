@@ -2,7 +2,7 @@
 layout: single
 title: "Welcome to MyAIGuitarBuddy!"
 date: 2025-06-12
-tags: [intro, chatgpt-assisted]
+tags: [chatgpt-assisted]
 read_time: true
 author_profile: true
 ---
