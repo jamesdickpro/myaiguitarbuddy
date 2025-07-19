@@ -2,7 +2,7 @@
 layout: single
 title: "How This Blog Got Started: Building MyAIGuitarBuddy with AI"
 date: 2025-06-15
-tags: [chatgpt-assisted, intro, jekyll, github-pages]
+tags: [chatgpt-assisted, jekyll, github-pages]
 read_time: true
 author_profile: true
 ---
