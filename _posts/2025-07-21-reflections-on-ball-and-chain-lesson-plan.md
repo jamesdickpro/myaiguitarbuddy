@@ -98,7 +98,7 @@ You now have a **clear, repeatable daily practice routine** and a fully formatte
 ## Co-writing with ChatGPT
 
 - Co-writing with ChatGPT was awesome.  Not having to type the majority of the content is a huge time saver.
-- Refining the posts were easy.  I felt the first lesson plan that ChatGPT provided was overly ambitious and asked it to make the plan more beginner friendly.  It scaled back the plan quite nicely.  I could add or remove sections as necessary.  I could focus on a particular section and refine it and leave the rest of the post intact.
+- Refining the posts were easy.  It scaled back the plan quite nicely.  I could add or remove sections as necessary.  I could focus on a particular section and refine it and leave the rest of the post intact.
 - The chord diagrams had to be requested separately and they were located in the middle of the post.  This required me to cut and paste the markdown into the .md file in the order I wanted for the blog post.  Still considerably less time that typing everything.  Subsequent iterations of the lesson plan to standard tuning and capo on the first fret included the chord diagrams automaticallly.
 
 ## Creating the Lesson Plan
