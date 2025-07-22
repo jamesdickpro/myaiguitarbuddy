@@ -93,6 +93,8 @@ You now have a **clear, repeatable daily practice routine** and a fully formatte
 - Recording reference
 - Clean, publish-ready formatting
 
+---
+
 # Reflections
 
 ## Co-writing with ChatGPT
