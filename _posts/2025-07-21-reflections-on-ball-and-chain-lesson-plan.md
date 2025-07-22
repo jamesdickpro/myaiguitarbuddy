@@ -1,3 +1,12 @@
+---
+title: "Reflections on Ball and Chain Lesson Plan"
+date: 2025-07-21
+layout: single
+author_profile: true
+tags: [manually-written, chatgpt-assisted, reflections]
+read_time: true
+---
+
 # 🎸 Conversation Summary: Creating the "Ball and Chain" Guitar Lesson Plan
 
 ## 📝 Overview
@@ -84,6 +93,16 @@ You now have a **clear, repeatable daily practice routine** and a fully formatte
 - Recording reference
 - Clean, publish-ready formatting
 
----
+# Reflections
 
-If you'd like, I can save this as a reusable **template for future song lessons**.
+## Co-writing with ChatGPT
+
+- Co-writing with ChatGPT was awesome.  Not having to type the majority of the content is a huge time saver.
+- Refining the posts were easy.  I felt the first lesson plan that ChatGPT provided was overly ambitious and asked it to make the plan more beginner friendly.  It scaled back the plan quite nicely.  I could add or remove sections as necessary.  I could focus on a particular section and refine it and leave the rest of the post intact.
+- The chord diagrams had to be requested separately and they were located in the middle of the post.  This required me to cut and paste the markdown into the .md file in the order I wanted for the blog post.  Still considerably less time that typing everything.  Subsequent iterations of the lesson plan to standard tuning and capo on the first fret included the chord diagrams automaticallly.
+
+## Creating the Lesson Plan
+
+- ChatGPT struggled with the tuning of the song and key.  The first suggestion was Eb major when the song is in Db major using Eb tuning.  After correcting ChatGPT, I asked to transpose the song to standard tuning using a capo.  With this first exploration of ChatGPT's capabilities, I was assuming it could create an accurate lesson plan.  Now, I assume I am asking it something outside of what is was trained to do.  Namely, an understanding of music including keys, transposing, etc.  I had to know the chord progression and tell ChatGPT to write it down.
+- I treated this first lesson plan as as create a lesson and post to the blog.  I learned the first week the lessons should be more dynamic.  e.g. once the chords were mastered, remove those and add something new.  If the lessons are for personal consumption and won't be shared with the world then there is no need for a blog post.  Just work directly with a ChatGPT conversation.
+- I learned that I am better off using YouTube video lessons that relying on ChatGPT for the chords and riffs.
