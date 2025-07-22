@@ -2,7 +2,7 @@
 layout: single
 title: "How This Blog Got Started: Building MyAIGuitarBuddy with AI"
 date: 2025-06-15
-tags: [chatgpt-assisted, jekyll, github-pages]
+tags: [manually-written, chatgpt-assisted, reflections]
 read_time: true
 author_profile: true
 ---
@@ -66,7 +66,7 @@ Then I needed help with the technical side of GitHub Pages and Jekyll:
 - **How to fix layout and missing navigation in blog posts**
 - **How to add an avatar (yes, JPG works!)**
 
-ChatGPT explained each step clearly and walked me through the exact files and settings I needed.
+ChatGPT explained each step clearly and walked me through the exact files and settings I needed for the most part.  ChatGPT struggled a bit with creating a sidebar nav of the tags.  To be fair, I don't really know Jekyll or Liquid very well, so I admit I may have not been asking the best questions.  I spent time looking at the generated HTML and moving it around in Chrome before figuring out how to modify the generated code.  This is in line with what I have heard about coding with an AI assistant.  The focus shifts from writing code to tweaking, testing and debugging.  I think ChatGPT got me about 75% of the way to the blog I wanted and I am happy with the results.
 
 ---
 
@@ -80,3 +80,4 @@ Let’s keep learning — and playing — together.
 
 🎶  
 James  
+
