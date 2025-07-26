@@ -3,7 +3,7 @@ title: "Reflections on Ball and Chain Lesson Plan"
 date: 2025-07-21
 layout: single
 author_profile: true
-tags: [manually-written, chatgpt-assisted, reflections]
+tags: [chatgpt-assisted, reflections]
 read_time: true
 ---
 
@@ -97,6 +97,8 @@ You now have a **clear, repeatable daily practice routine** and a fully formatte
 
 # Reflections
 
+---
+
 ## Co-writing with ChatGPT
 
 - Co-writing with ChatGPT was awesome.  Not having to type the majority of the content is a huge time saver.
@@ -106,5 +108,5 @@ You now have a **clear, repeatable daily practice routine** and a fully formatte
 ## Creating the Lesson Plan
 
 - ChatGPT struggled with the tuning of the song and key.  The first suggestion was Eb major when the song is in Db major using Eb tuning.  After correcting ChatGPT, I asked to transpose the song to standard tuning using a capo.  With this first exploration of ChatGPT's capabilities, I was assuming it could create an accurate lesson plan.  Now, I assume I am asking it something outside of what is was trained to do.  Namely, an understanding of music including keys, transposing, etc.  I had to know the chord progression and tell ChatGPT to write it down.
-- I treated this first lesson plan as as create a lesson and post to the blog.  I learned the first week the lessons should be more dynamic.  e.g. once the chords were mastered, remove those and add something new.  If the lessons are for personal consumption and won't be shared with the world then there is no need for a blog post.  Just work directly with a ChatGPT conversation.
-- I learned that I am better off using YouTube video lessons that relying on ChatGPT for the chords and riffs.
+- I treated this first lesson plan as a create a lesson and post to the blog.  I learned the first week the lessons should be more dynamic.  e.g. once the chords were mastered, remove those and add something new.  If the lessons are for personal consumption and won't be shared with the world then there is no need for a blog post.  Just work directly with a ChatGPT conversation to create the lesson plan.
+- I learned that I am better off using YouTube video lessons than relying on ChatGPT for the chords and riffs.
