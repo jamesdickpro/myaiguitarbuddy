@@ -97,7 +97,6 @@ G      Cadd9     D       Em
 
 ## 🛠️ Iteration Summary: Refinements to the Lesson Plan
 
-```markdown
 ## 🛠️ Lesson Plan Iteration Summary
 
 ### 🔄 Original Assumption:
