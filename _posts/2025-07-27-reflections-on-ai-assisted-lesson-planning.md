@@ -3,7 +3,7 @@ title: "Reflections on AI Assisted Lesson Planning"
 date: 2025-07-27
 layout: single
 author_profile: true
-tags: [chatgpt-assisted, reflections, green-day, mgk]
+tags: [chatgpt-assisted, reflections, green-day]
 read_time: true
 ---
 
@@ -11,7 +11,11 @@ read_time: true
 
 ---
 
-- TODO
+- I asked ChatGPT to create a lesson plan for "Good Riddance (Time of Your Life)" by Green Day because it is a relatively easy song and still gets regular radio airplay after over 27 years.  Ball and Chain by Social Distortion never achieved the same level of success.  I wanted to determine if a very popular song would effect the results.  It did not.
+- For example, the chords in the song were in the lesson plan, the order was wrong, the opening riff made no sense, and the strumming pattern was as expected.
+- I find the lesson plans to be overly agressive with respect to what I can be accomplished in a week, but as noted in the [Reflections on Ball and Chain Lesson Plan](https://jamesdickpro.github.io/myaiguitarbuddy/2025/07/21/reflections-on-ball-and-chain-lesson-plan.html) post that is easy to fix.
+- I asked ChatGPT about its limitations for copyrighted materials.  In short, it is designed to respect copyright laws.  Artist deserve to earn a living for what they do, just like me.  I see this as a good safeguard that helps protect artists. 
+- I have found that I still needed to give ChatGPT detailed instructions on how to play the song and to create my practice session.  It ends up being time taken away from playing and practicing guitar.  I am better off finding one or two good YouTube videos and making some quick notes on paper.  For the time being, I will focus on guitar and may come back to the blog at a later date.
 
 ---
 
@@ -126,112 +130,3 @@ G      Cadd9     D       Em
   - Picking vs. strumming structure
 - This ensures better rhythm and flow for learners.
 
----
-
-# Original Lesson Plan "I Think I’m OKAY" by Machine Gun Kelly (feat. YUNGBLUD & Travis Barker), plus iterations
-
----
-
-## 🎶 Song Overview
-
-- **Artist**: Machine Gun Kelly (feat. YUNGBLUD & Travis Barker)  
-- **Released**: 2019  
-- **Tuning**: Standard (E A D G B E)  
-- **Style**: Pop Punk / Alternative Rock  
-- **Techniques**: Power chords, melodic riffing, palm muting, rhythm transitions
-
----
-
-## 🧩 Sections
-
-### 1. 🎸 Main Melodic Riff (Intro)
-
-This is the iconic hook that plays over the intro beat before the verse power chords:
-
-```
-G|---7-4-4-0-0---7-4-4-0-0---7-4-4-0-0---5-4-4-0-0---
-D|5--------------5--------------5--------------5-----
-```
-
-- **Start** on G7 + D5
-- **Descend** to G4, then G open
-- Repeat the motif with slight variation at the end (G5 instead of G7)
-
-Play this section with light distortion and precise timing.
-
----
-
-### 2. 🔥 Power Chord Rhythm Section
-
-After the intro, MGK kicks into the rhythm part using palm-muted power chords:
-
-```
-e|---------------------------|
-B|---------------------------|
-G|-------------------9-9-9---|
-D|-2-2-2-5-5-5---7-7---------|
-A|-2-2-2-5-5-5---7-7---------|
-E|-0-0-0-3-3-3---5-5---------|
-```
-
-
-- **E5 - G5 - A5 - B5** power chord progression
-- Tight palm muting on the low E and A strings
-- Very punchy and rhythmic
-
----
-
-### 3. 🧠 Practice Tips
-
-- Loop the melodic riff separately until it's fluid.
-- Use a metronome at 90 BPM to build rhythm control.
-- Focus on dynamics—clean riff, heavier power chords.
-- Play along with the track for timing and tone.
-
----
-
-## ✅ Next Steps
-
-- Learn the **verse chord voicings** and **chorus changes**.
-- Add vocal phrasing or melody on top of the power chords.
-- Experiment with tone matching (light breakup for the riff, more drive for chorus).
-
----
-
-## 🛠️ Iteration Summary: Refinements to the Lesson Plan
-
----
-
-### 🧪 Original Prompt
-
-User asked:  
-> “What is the riff for MGK’s I Think I am okay song?”
-
-### ❌ First Attempt
-
-- I mistakenly identified the **power chord rhythm** section (E5–G5–A5–B5) as the main riff.
-- This was a rhythm progression—not the melodic lead the user meant.
-
-### 🧠 Clarification by User
-
-> “That’s the rhythm not the riff. A riff is usually a melody or series of notes.”
-
-This helped narrow the focus toward the melodic intro hook.
-
-### 🔍 Research Iteration
-
-- I checked more trusted tabs and video lessons (GuitarZero2Hero, Songsterr, Guitartabcreator).
-- Discovered the accurate **melodic riff uses frets 7, 4, 0, 5** on the G and D strings.
-
-### ✅ Final Correction
-
-- Provided the **accurate melodic riff** using G string (7–4–0) and D string (5).
-- Confirmed it matched the GuitarZero2Hero video and tab creators.
-
-### 🎉 Lesson Plan Finalized
-
-- Combined melodic riff + rhythm chords
-- Added structured practice tips
-- Included next steps for full song learning
-
----
